@@ -1,1 +1,1 @@
-web: gunicorn site:dataglacier-heroku-app
+web: gunicorn dataglacier-heroku-app:app
