@@ -89,13 +89,13 @@ import pandas as pd
 pd.set_option('display.max_colwidth', 1000)
 
 # api key
-api_key = "9D6LvvCirf5d16SudvkS2SiKf"
+api_key = "xxxx"
 # api secret key
-api_secret_key = "5RIuJlxMfsc3drxlwibWc5qgyf2rZPPb9ZPNcTsBFDKkTEx0gf"
+api_secret_key = "xxxx"
 # access token
-access_token = "1577475918192201730-nzndXCXcumuxdZfj2DkGZTrXnIxGYT"
+access_token = "xxxx"
 # access token secret
-access_token_secret = "bzqvlVwjcKF4h13Rwcu35aX5JvxGHVUQQ1Z65TmdNDk2G"
+access_token_secret = "xxxx"
 
 # authorize the API Key
 authentication = tweepy.OAuthHandler(api_key, api_secret_key)
