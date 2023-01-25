@@ -1,0 +1,301 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:5000/success/Trump
+Subject: 
+Date: Wed, 25 Jan 2023 03:29:37 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--YLIvz5PirDGDU7NK8oWg6S2dDXl5XfnULJNzhhtTPX----"
+
+
+------MultipartBoundary--YLIvz5PirDGDU7NK8oWg6S2dDXl5XfnULJNzhhtTPX----
+Content-Type: text/html
+Content-ID: <frame-8AD8F9D356B23F17760CB56345666BDB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:5000/success/Trump
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f16732=
+a9-adb2-40b4-9e0a-4cd6a4d30344@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-dbe4f9b3-80a8-4378-946f-3cf7cc1215e1@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4d434b61-=
+ff59-45c6-953e-b6505f214e55@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-dc20519f-c31c-4220-96db-9272febd6b3d@mhtml.blink=
+" /></head><body data-new-gr-c-s-check-loaded=3D"14.1094.0" data-gr-ext-ins=
+talled=3D""><xmp>0    38
+1     7
+Name: prediction, dtype: int64
+
+                  created_at             tweet_id  \
+0  2023-01-25 03:29:03+00:00  1618088531322363905  =20
+1  2023-01-25 03:29:03+00:00  1618088531167178754  =20
+2  2023-01-25 03:29:02+00:00  1618088530428956673  =20
+3  2023-01-25 03:29:02+00:00  1618088530126987267  =20
+4  2023-01-25 03:29:02+00:00  1618088529820807168  =20
+5  2023-01-25 03:29:02+00:00  1618088529518792704  =20
+6  2023-01-25 03:29:02+00:00  1618088529502044162  =20
+7  2023-01-25 03:29:02+00:00  1618088529262936065  =20
+8  2023-01-25 03:29:02+00:00  1618088529107775490  =20
+9  2023-01-25 03:29:02+00:00  1618088528474439680  =20
+10 2023-01-25 03:29:02+00:00  1618088527954337794  =20
+11 2023-01-25 03:29:02+00:00  1618088527698464769  =20
+12 2023-01-25 03:29:02+00:00  1618088526725382144  =20
+13 2023-01-25 03:29:01+00:00  1618088526008180737  =20
+14 2023-01-25 03:29:01+00:00  1618088525978816513  =20
+15 2023-01-25 03:29:01+00:00  1618088525974634496  =20
+16 2023-01-25 03:29:01+00:00  1618088524749864960  =20
+17 2023-01-25 03:29:01+00:00  1618088523558707206  =20
+18 2023-01-25 03:29:01+00:00  1618088523453857797  =20
+19 2023-01-25 03:29:01+00:00  1618088523160236032  =20
+20 2023-01-25 03:29:01+00:00  1618088522879205376  =20
+21 2023-01-25 03:29:01+00:00  1618088522430447621  =20
+22 2023-01-25 03:29:01+00:00  1618088522338177024  =20
+23 2023-01-25 03:29:00+00:00  1618088522233319424  =20
+24 2023-01-25 03:29:00+00:00  1618088521331544070  =20
+25 2023-01-25 03:29:00+00:00  1618088519011913729  =20
+26 2023-01-25 03:29:00+00:00  1618088518869471235  =20
+27 2023-01-25 03:28:59+00:00  1618088517921558530  =20
+28 2023-01-25 03:28:59+00:00  1618088517502119936  =20
+29 2023-01-25 03:28:59+00:00  1618088517015580673  =20
+30 2023-01-25 03:28:59+00:00  1618088516772327425  =20
+31 2023-01-25 03:28:59+00:00  1618088516277383169  =20
+32 2023-01-25 03:28:59+00:00  1618088515778269185  =20
+33 2023-01-25 03:28:59+00:00  1618088515136548864  =20
+34 2023-01-25 03:28:58+00:00  1618088513593053185  =20
+35 2023-01-25 03:28:58+00:00  1618088511412015105  =20
+36 2023-01-25 03:28:58+00:00  1618088511042904065  =20
+37 2023-01-25 03:28:58+00:00  1618088510317289472  =20
+38 2023-01-25 03:28:58+00:00  1618088510099193856  =20
+39 2023-01-25 03:28:57+00:00  1618088509675548673  =20
+40 2023-01-25 03:28:57+00:00  1618088509251944450  =20
+41 2023-01-25 03:28:57+00:00  1618088507783942145  =20
+42 2023-01-25 03:28:57+00:00  1618088507473555457  =20
+43 2023-01-25 03:28:57+00:00  1618088506580144134  =20
+44 2023-01-25 03:28:57+00:00  1618088506336890880  =20
+
+                                                                           =
+                                                                 tweet_text=
+  \
+0         @BlackerbyNeal @ericareport 1. It was absolutely an insurrection.=
+ Members of the Oathkeepers have already been conv=E2=80=A6 https://t.co/H2=
+Iw5iVucN  =20
+1         RT @RonFilipkowski: Ronny=E2=80=99s first tweet about fentanyl ev=
+er was on July 3, 2021. He has made 18 tweets since that time blaming the b=
+order f=E2=80=A6  =20
+2                                                                          =
+                                               @The_Trump_Train Hell Yeah!!=
+  =20
+3                                                                          =
+                @KariLake Are you trying to brake Trump's record of losing?=
+  =20
+4          RT @BlackKnight10k: Now that they've arrested the FBI agent who =
+covered for Trump in 2016 and framed Hillary right before the election, we=
+=E2=80=A6  =20
+5                                                                          =
+                                                 @The_Trump_Train Yes I do.=
+  =20
+6          RT @BlackKnight10k: Now that they've arrested the FBI agent who =
+covered for Trump in 2016 and framed Hillary right before the election, we=
+=E2=80=A6  =20
+7       God, I hate #KevinMcCarthy \n\nPlease God, use all your power to sm=
+ite him so we can rid our country of the stench of=E2=80=A6 https://t.co/HD=
+u7rARP0k  =20
+8                                                          RT @AntonioSabat=
+oJr: Remember Trump had declassification authority. Biden and Pence didn=E2=
+=80=99t.  =20
+9                                                                          =
+                              @POTUS Funny how Trump did that in 2020.. lol=
+  =20
+10        RT @MarshaBlackburn: The FBI agent who led the phony investigatio=
+n into President Trump and Russia has been arrested for his own ties to th=
+=E2=80=A6  =20
+11        RT @realmichaelseif: Donald Trump, Joe Biden, Mike Pence all took=
+ documents from the White House and the only one who woke up one morning t=
+=E2=80=A6  =20
+12        RT @OccupyDemocrats: BREAKING: Fulton County DA announces that th=
+e decision whether or not to indict Donald Trump for trying to illegally o=
+=E2=80=A6  =20
+13      RT @lindyli: Instead of telling us 7 yrs ago that he was being pres=
+sured to sabotage Hillary Clinton, James Comey wrote a book instead\n\nIns=
+=E2=80=A6  =20
+14                                        @DogRightGirl But the lame stream=
+ media tries to make it all the same except they say Trump didn=E2=80=99t c=
+ooperate  =20
+15                   @harryjsisson Yeah sounds like you=E2=80=99re starting=
+ to wake up. This is good. Just watch and listen closely to those who oppos=
+e Trump.  =20
+16                                                                         =
+                                  @The_Trump_Train Or =E2=80=9Cin=E2=80=9D =
+his back door =F0=9F=98=B3=F0=9F=98=82  =20
+17        RT @ewarren: If Republicans hadn=E2=80=99t spent nearly $2 trilli=
+on on the Trump tax cuts, and if they hadn=E2=80=99t made it easier for ric=
+h people to che=E2=80=A6  =20
+18                       RT @RonFilipkowski: Ronny hasn=E2=80=99t been this=
+ excited since Trump stripped down for his annual physical. https://t.co/15=
+0dN2vHGM  =20
+19      RT @mrddmia: Trump (lawfully) with his classified presidential reco=
+rds: =E2=80=9CJail the traitor!=E2=80=9D\n\nBiden with (stolen) classified =
+records: =E2=80=9CEvery=E2=80=A6  =20
+20         RT @DoliaEstevez: La posibilidad de un nuevo ataque terrorista e=
+stilo 9/11 vendr=C3=ADa de M=C3=A9xico, dice Mike Pompeo, ex director de la=
+ CIA y ex=E2=80=A6  =20
+21        RT @DashDobrofsky: There it is. Classified documents were found a=
+t Mike Pence=E2=80=99s home in Indiana. This cancels out Joe Biden=E2=80=99=
+s classified do=E2=80=A6  =20
+22                                                                         =
+       @LoriMills4CA42 @SpeakerMcCarthy @HouseIntel https://t.co/w1wPHWckfX=
+  =20
+23                                                                         =
+                              @Breaking911 Didn't Trump want Pence hung lol=
+  =20
+24      RT @WalshFreedom: Do I believe Biden knew he had classified documen=
+ts in his home? No.\n\nDo I believe Pence knew he had classified documents=
+=E2=80=A6  =20
+25                                                      Biden, Pelosi, Schu=
+mer Suffer Major Defeat  #MAGA #TRUMP2024 #Trump\n\nhttps://t.co/olwsTyvQxK=
+  =20
+26                                                                         =
+                                               @Brink_Thinker Trump is back=
+  =20
+27         @laurenboebert A Consensual Search means you agree they have a r=
+ight to do so. A "Trump is a Crybaby" Search means=E2=80=A6 https://t.co/W5=
+x0uNm6oF  =20
+28  RT @MarkSZaidEsq: Told ya.\n\nNow former VP Pence should allow @FBI to =
+voluntarily search his offices &amp; residence for additional classified d=
+=E2=80=A6  =20
+29                                                                         =
+                                                       @The_Trump_Train Yes=
+  =20
+30                            @GOP Decontrolling gasoline prices. Yeah real=
+ smart fucking move. Look it up 1981. You can shove that up your Trump hole=
+  =20
+31      RT @mitchellvii: Allow me to play devil's advocate on the vaccine:\=
+n\nImagine for a moment that President Trump has refused development of th=
+=E2=80=A6  =20
+32       RT @DineshDSouza: BREAKING: FBI official who investigated Trump ti=
+es to Russia was just arrested for illegal ties to Russian oligarch\nhttps=
+=E2=80=A6  =20
+33      RT @RepAdamSchiff: Kevin McCarthy just kicked me and @RepSwalwell o=
+ff the Intelligence Committee.\n\nThis is petty, political payback for inv=
+=E2=80=A6  =20
+34      RT @RepAdamSchiff: Kevin McCarthy just kicked me and @RepSwalwell o=
+ff the Intelligence Committee.\n\nThis is petty, political payback for inv=
+=E2=80=A6  =20
+35        RT @MI_James57: Why is raising the debt limit suddenly a huge pro=
+blem for the GOP?\n\nThey did it three times under Trump without objection.=
+  =20
+36        Georgia prosecutor says the decision to charge Trump in 2020 elec=
+tion case is 'imminent' as she urges judge to keep grand jury report secret=
+  =20
+37        Donald Trump has announced that Mike Pence must hang for taking c=
+lassified documents. He is one persistent former p=E2=80=A6 https://t.co/ML=
+gJ6fkEEm  =20
+38        @NewYorkStateAG When u ran for office u said u will prosecute Tru=
+mp that's was ur platform before u know what the c=E2=80=A6 https://t.co/N5=
+I03FdpBf  =20
+39        RT @l78lancer: Anyone who has been aware of and followed Fani Wil=
+lis over the past ten years knows that RICO prosecution is her home court.=
+=E2=80=A6  =20
+40                                                                  RT @blu=
+eheartedly: Who thinks Trump gave classified information to Vladimir Putin?=
+  =20
+41        @realMAGAMAFIA @KariLake @LadyladyHeidiAB yes, it's always all th=
+ese other ppl holding you all back and not you all=E2=80=A6 https://t.co/Zn=
+9SBUtphG  =20
+42                                                                         =
+                                                       @The_Trump_Train Yes=
+  =20
+43        RT @cathyob1: @SpeakerMcCarthy @HouseIntel You have no morals, no=
+ scruples and no decency. You are not worthy to shine Adam Schiff's shoes.=
+=E2=80=A6  =20
+44        RT @IndependentWat6: @DC_Draino @RepAdamSchiff @RepSwalwell Trump=
+ is the traitor to this country along with the sycophant who helped with t=
+=E2=80=A6  =20
+
+    prediction =20
+0            0 =20
+1            0 =20
+2            0 =20
+3            0 =20
+4            0 =20
+5            0 =20
+6            0 =20
+7            0 =20
+8            0 =20
+9            0 =20
+10           1 =20
+11           0 =20
+12           0 =20
+13           0 =20
+14           0 =20
+15           0 =20
+16           0 =20
+17           1 =20
+18           0 =20
+19           1 =20
+20           0 =20
+21           0 =20
+22           0 =20
+23           0 =20
+24           0 =20
+25           1 =20
+26           1 =20
+27           1 =20
+28           0 =20
+29           0 =20
+30           0 =20
+31           0 =20
+32           0 =20
+33           0 =20
+34           0 =20
+35           0 =20
+36           0 =20
+37           0 =20
+38           0 =20
+39           0 =20
+40           0 =20
+41           0 =20
+42           0 =20
+43           0 =20
+44           1   </xmp> </body><grammarly-desktop-integration data-grammarl=
+y-shadow-root=3D"true"><template shadowmode=3D"open"><div aria-label=3D"gra=
+mmarly-integration" role=3D"group" tabindex=3D"-1" class=3D"grammarly-deskt=
+op-integration" data-content=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;is=
+Active&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></gra=
+mmarly-desktop-integration></html>
+------MultipartBoundary--YLIvz5PirDGDU7NK8oWg6S2dDXl5XfnULJNzhhtTPX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f16732a9-adb2-40b4-9e0a-4cd6a4d30344@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--YLIvz5PirDGDU7NK8oWg6S2dDXl5XfnULJNzhhtTPX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-dbe4f9b3-80a8-4378-946f-3cf7cc1215e1@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--YLIvz5PirDGDU7NK8oWg6S2dDXl5XfnULJNzhhtTPX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4d434b61-ff59-45c6-953e-b6505f214e55@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--YLIvz5PirDGDU7NK8oWg6S2dDXl5XfnULJNzhhtTPX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-dc20519f-c31c-4220-96db-9272febd6b3d@mhtml.blink
+
+@charset "utf-8";
+
+ytd-promoted-video-renderer, ytd-display-ad-renderer, ytd-compact-promoted-=
+video-renderer, ytd-promoted-sparkles-web-renderer, .ytd-carousel-ad-render=
+er, .ytd-promoted-sparkles-text-search-renderer, .ad-container, .ad-div, .m=
+asthead-ad-control, .video-ads, .ytp-ad-progress-list, #ad_creative_3, #foo=
+ter-ads, #masthead-ad, #player-ads, .ytd-mealbar-promo-renderer, .sparkles-=
+light-cta #watch-channel-brand-div, #watch7-sidebar-ads, .html5-video-playe=
+r.ad-showing video { display: none !important; }
+------MultipartBoundary--YLIvz5PirDGDU7NK8oWg6S2dDXl5XfnULJNzhhtTPX------
